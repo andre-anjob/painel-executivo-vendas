@@ -1,0 +1,13 @@
+# Ambiente
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# Sistema
+.DS_Store
